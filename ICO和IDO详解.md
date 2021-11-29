@@ -22,7 +22,7 @@ ICO( Initial Coin Offering ) 首次货币发行
 
 
 
-IDO(Initial Digital Assets Offering) 首次区块链数字资产发行
+IDO(Initial  DeFi Offering) 首次区块链数字资产发行
 
 这个东西就有点意思了，就不说概念了，简单来说就是项目方发布一些任务，你完成任务后会获得一些奖励（也就是代币）
 
