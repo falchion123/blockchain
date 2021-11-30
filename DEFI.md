@@ -1,8 +1,12 @@
 ##dex
 polkastarter.com   eth bsc polygon
+
 uniswap.org       eth  Optimism Arbitrum
+
 balancer.fi       eth  polygon Arbitrum
+
 kyber.network      eth polygon bsc Avalanche Fantom
+
 pancakeswap.finance    bsc
 
 
